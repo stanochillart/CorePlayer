@@ -18,7 +18,7 @@ Tvoja hudba zostáva v telefóne. A telefón zostáva tvoj.
 
 ### CorePlayer 1.0
 
-**[STIAHNUŤ COREPLAYER 1.0 — APK](releases/CorePlayer-1.0-release-signed.apk)**
+**[STIAHNUŤ COREPLAYER 1.0 — APK](https://github.com/stanochillart/CorePlayer-releases/raw/refs/heads/main/releases/CorePlayer-1.0.0-release-signed.apk)**
 
 **Android 9+ · bez účtu · bez reklám**
 
