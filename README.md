@@ -4,7 +4,7 @@
 
 ### Your music. Your device. No cloud.
 
-**[Download](releases/CorePlayer-1.2.apk)** · Android 9+ · no account · no ads
+**[Download](https://github.com/stanochillart/CorePlayer/releases/download/v1.2/CorePlayer-1.2.apk)** · Android 9+ · no account · no ads
 
 ---
 
@@ -32,6 +32,6 @@ This is not a catalogue of millions of tracks. It will not tell you what to list
 
 ---
 
-**[Download CorePlayer](releases/CorePlayer-1.2.apk)**
+**[Download CorePlayer](https://github.com/stanochillart/CorePlayer/releases/download/v1.2/CorePlayer-1.2.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)

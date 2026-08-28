@@ -4,7 +4,7 @@
 
 ### Tvoja hudba. Tvoje zariadenie. Žiadny cloud.
 
-**[Stiahnuť](releases/CorePlayer-1.2.apk)** · Android 9+ · bez účtu · bez reklám
+**[Stiahnuť](https://github.com/stanochillart/CorePlayer/releases/download/v1.2/CorePlayer-1.2.apk)** · Android 9+ · bez účtu · bez reklám
 
 ---
 
@@ -32,6 +32,6 @@ Nie je to katalóg miliónov skladieb. Neodporúča ti, čo máš počúvať. Ne
 
 ---
 
-**[Stiahnuť CorePlayer](releases/CorePlayer-1.2.apk)**
+**[Stiahnuť CorePlayer](https://github.com/stanochillart/CorePlayer/releases/download/v1.2/CorePlayer-1.2.apk)**
 
 StanoChillArt · [stanochillart.wordpress.com](https://stanochillart.wordpress.com/)
