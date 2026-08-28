@@ -1,4 +1,4 @@
-[English](README.md) · **Slovenčina**
+[English](https://stanochillart.github.io/CorePlayer/) · **Slovenčina** · [Čeština](https://stanochillart.github.io/CorePlayer/cs/) · [Polski](https://stanochillart.github.io/CorePlayer/pl/) · [Deutsch](https://stanochillart.github.io/CorePlayer/de/) · [Magyar](https://stanochillart.github.io/CorePlayer/hu/) · [Italiano](https://stanochillart.github.io/CorePlayer/it/) · [Español](https://stanochillart.github.io/CorePlayer/es/) · [日本語](https://stanochillart.github.io/CorePlayer/ja/) · [中文](https://stanochillart.github.io/CorePlayer/zh/)
 
 # CorePlayer
 
